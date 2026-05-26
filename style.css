@@ -101,6 +101,7 @@ section ul li {
 
 a.cta {
   display: inline-block;
+  margin-top: 1.5rem;
   background-color: var(--cta-bg);
   color: var(--cta-text);
   text-decoration: none;
